@@ -1,0 +1,139 @@
+.request-button{
+  background-color: black;
+  color: white;
+  border:none;
+  height:40px;
+  width:110px;
+  cursor:pointer;
+}
+.request-button:hover{
+  opacity:0.7;}
+.request-button:active{
+  opacity: 0.3;
+}
+
+.cart-button{
+  background-color: rgb(255, 216, 20);
+  border:none;
+  height:40px;
+  width:150px;
+  border-radius:20px;
+  font-weight:bold;
+  cursor:pointer;
+  transition:box-shadow 0.7s;
+
+}
+  .cart-button:hover{
+    box-shadow: 7px 7px 10px rgb(168, 158, 158);
+  }
+  .cart-button:active{
+    opacity: 0.3;
+  }
+
+
+.github-button{
+  background-color: rgb(46, 164,79);
+  border:none;
+  padding-top:10px;
+  padding-bottom:10px;
+  padding-left:15px;
+  padding-right:15px;
+  margin-left:9px;
+  color:white;
+  border-radius:5px;
+  cursor:pointer;
+  transition:background-color 1s;
+}
+.github-button:active{
+  opacity:0.2;
+}
+.github-button:hover{
+  background-color:green;
+  box-shadow:4px 4px 5px rgb(158, 144, 144);
+}
+
+.start-button{
+background-color: blueviolet;
+color:white;
+border:none;
+height:40px;
+width:110px;
+font-weight: bold;
+border-radius:7px;
+cursor:pointer;
+transition:background-color 1s;
+}
+.start-button:hover{
+background-color:purple;
+}
+.start-button:active{
+opacity: 0.3;
+}
+
+.download-button{
+color:rgb(108, 117, 125);
+height:40px;
+width:100px;
+border-color: rgb(108, 117, 125);
+border-width: 1px;
+border-style:solid;
+border-radius: 7px;
+cursor:pointer;
+margin-left: 8px;
+transition: background-color 1s , color 1s;
+}
+.download-button:hover{
+background-color:  rgb(108, 117, 125);
+color:white;
+}
+.download-button:active{
+opacity: 0.3;
+}
+
+.apply-button{
+  background-color: rgb(10, 102, 194);
+  color:white;
+  height:36px;
+  width:210px;
+  border-color: rgb(10, 102, 194);;
+  border-radius:18px;
+  font-weight: bold;
+  cursor: pointer;
+  border-style: solid;
+  transition:color 1s, border-color 1s;
+  margin-right:0px;
+  vertical-align:top;
+}
+.apply-button:hover{
+  color:black;
+  border-color: black;
+}
+.apply-button:active{
+  background-color:white ;
+}
+
+.save-button{
+  color: rgb(10, 102, 194);
+  border-color: rgb(10, 102, 194); 
+  border-style: solid;
+  border-width: 1px;
+  border-radius:18px;
+  padding-top:10px;
+  padding-bottom:10px;
+  padding-left:20px;
+  padding-right:20px;
+  font-weight: bolder;
+  cursor:pointer;
+  margin-left: 8px;
+  transition: background-color 1s, color 1s,margin 0.7s;
+}
+.save-button:hover{
+  background-color: rgb(10, 102, 194); 
+  color:white;
+  box-shadow:5px 5px 3px rgb(141, 132, 132)
+}
+.save-button:active{
+  margin-top:10px;
+  margin-left:15px;
+  box-shadow:0px 0px 0px grey;
+}

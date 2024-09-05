@@ -1,0 +1,46 @@
+p{
+  font-family:arial;
+}
+.tech{
+  font-size:25px;
+  font-weight:bold;
+  width:400px;
+  line-height:35px;
+  margin-bottom:0px;
+  margin-top:0px;
+}
+.video-stats{
+  font-size:14px;
+  line-height:0px;
+  margin-top:15px;
+  margin-bottom:20px;
+  color:rgb(97, 97, 97);
+}
+.youtuber{
+  font-size:16px;
+  margin-top:30px;
+  margin-bottom:25px;
+  color:rgb(97, 97, 97);
+}
+.description{
+  color:rgb(97, 97, 97);
+  margin-top:0;
+  font-size:19px;
+  width: 380px;
+  line-height:25px;
+  margin-bottom:70px;
+}
+.add{
+  background-color: rgb(227, 65, 64);
+  padding-top: 15px;
+  padding-bottom:15px;
+  padding-right:0px;
+  text-align: center;
+  color:white;
+  font-size:15px;
+  margin-bottom:10px;
+}
+.shop-now:hover{
+  text-decoration: underline;
+  cursor:pointer;
+}
